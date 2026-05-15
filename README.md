@@ -1,1 +1,4 @@
-# 2026-05_-_kill_the_searchbar_-_pdm
+# 2026-05 - kill_the_searchbar - pdm
+
+- [pdm_hack_info.md]
+- [pdm_hack_clarification.md]
