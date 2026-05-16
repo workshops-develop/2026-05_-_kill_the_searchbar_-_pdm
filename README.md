@@ -12,3 +12,7 @@
 
 - https://www.gelbeseiten.de/suche/arzt/03044?umkreis=5000000
 
+---
+
+- https://opencorporates.com/
+- https://openregister.de/ 
